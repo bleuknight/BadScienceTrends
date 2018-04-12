@@ -1,0 +1,53 @@
+,unjustified,contradictoryReports,conflictingData,retracted,conflictingReports,contradictoryData,,sum
+quality,160,14,169,92,96,26,,557
+Sensitivity,69,30,164,74,152,34,,523
+Antibody,15,14,116,51,99,17,,312
+Strain,7,9,53,49,53,14,,185
+Specificity,43,15,90,31,77,17,,273
+Survey,81,2,49,31,30,6,,199
+survey,81,2,49,31,30,6,,199
+Dose-dependent,3,10,34,26,32,16,,121
+Animal model,2,1,27,26,16,4,,76
+animal+Model ,2,1,27,26,16,4,,76
+Cell+line,1,12,40,24,41,11,,129
+Clinical+Trials,48,6,142,22,57,14,,289
+side+effects,40,2,46,22,36,4,,150
+Gender,33,8,127,19,62,21,,270
+pilot+study,9,1,10,19,7,2,,48
+Contamination,18,4,10,17,11,3,,63
+placebo,33,6,78,15,48,5,,185
+Reproducibility,8,3,13,14,9,1,,48
+case+study,7,1,4,11,2,2,,27
+transparency,6,0,1,7,0,1,,15
+dosage,17,4,25,6,26,4,,82
+dosing,8,2,32,6,9,1,,58
+poor+quality,3,1,2,6,0,1,,13
+plasmid,0,2,5,5,6,4,,22
+Clone,2,1,11,4,5,2,,25
+omission,18,2,2,3,0,0,,25
+Conflict+of+Interest ,3,0,2,2,1,0,,8
+Positive+control,2,2,8,1,4,0,,17
+speculation,4,1,5,1,4,0,,15
+misinterpretation,8,1,2,1,1,0,,13
+long+term+study,0,0,1,1,4,0,,6
+Reproducible+Results,0,0,1,1,0,0,,2
+general+conclusion,0,0,1,1,0,0,,2
+bioavailability,3,1,11,0,11,4,,30
+off-label,11,0,1,0,0,0,,12
+drug+interaction,3,0,1,0,2,1,,7
+bioavailable,1,0,4,0,1,0,,6
+data+quality,1,0,3,0,1,1,,6
+phase+III+trials,0,0,4,0,1,1,,6
+insufficient+information,2,0,0,0,0,1,,3
+confounding+factor,0,0,2,0,0,0,,2
+human+error,2,0,0,0,0,0,,2
+qualitative+data,0,0,1,0,1,0,,2
+coaching,0,0,1,0,0,0,,1
+short +term + study,0,0,0,0,1,0,,1
+sub-threshold,0,0,0,0,1,0,,1
+Bio-identical,0,0,0,0,0,0,,0
+Questionairre,0,0,0,0,0,0,,0
+generalized+conclusion,0,0,0,0,0,0,,0
+in-vitro+in-vivo+correlation,0,0,0,0,0,0,,0
+indirect+measurement,0,0,0,0,0,0,,0
+wrong+conclusion,0,0,0,0,0,0,,0
